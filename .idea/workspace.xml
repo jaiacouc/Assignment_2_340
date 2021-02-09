@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="779fa2da-e9f1-4635-ac82-e9b104003c34" name="Default Changelist" comment="" />
+    <list default="true" id="779fa2da-e9f1-4635-ac82-e9b104003c34" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Assignment_2_340.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Assignment_2_340.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_API/src/edu/uncg/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2_API/src/edu/uncg/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2_API/src/edu/uncg/QuoteAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2_API/src/edu/uncg/QuoteAPI.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +23,31 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.git/Assignment2_API" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/org.json.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.edu.uncg.Main" />
+      <module name="Assignment_2_340" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.edu.uncg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -31,5 +59,16 @@
       <updated>1612886855200</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

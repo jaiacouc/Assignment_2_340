@@ -1,4 +1,4 @@
-package edu.uncg;
+package src.edu.uncg;
 /*
  02/4/2021
  The purpose of this class is to establish a connection to a api and retrieve the data provided.

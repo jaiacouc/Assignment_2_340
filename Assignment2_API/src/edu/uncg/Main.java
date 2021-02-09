@@ -1,4 +1,4 @@
-package edu.uncg;
+package src.edu.uncg;
 /*
 02/4/2021
 This class is where the program will execute and pull a random quote from the QuoteAPI class.
